@@ -1,1 +1,2 @@
-# AI-Automation-Internship
+# AI-Automation-Internship Day 03 – GitHub, APIs & Postman
+Worked with Git and GitHub to understand version control and collaborative development, including participation in an open-source AI Agent project. Explored API concepts and RESTful operations, then developed a Lead Management API using n8n Webhooks integrated with Google Sheets. Used Postman to send and verify POST, GET, PUT, and DELETE requests. Prepared the required Postman collection and n8n workflow files for submission.
